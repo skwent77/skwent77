@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 [![harrywinks's github stats](https://github-readme-stats.vercel.app/api?username=harrywinks&show_icons=true)](https://github.com/harrywinks)
 
-[![로켓펀치 Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.rocketpunch.com/@jaejaejae0520)](https://www.rocketpunch.com/@jaejaejae0520)
+[![로켓펀치 Badge](https://www.linkedin.com/in/jaehyun-shin-30b7431a0/)
