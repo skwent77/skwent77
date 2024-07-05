@@ -5,4 +5,4 @@ RHere are some ideas to get you started:
 - 📫 How to reach me: skwent77@gmail.com
 
 
-[![{{skwent77}}'s github stats](https://github-readme-stats.vercel.app/api?username={{harrywinks}}&show_icons=true)](https://github.com/{{skwent77}})
+[![{{jaehyunShin}}'s github stats](https://github-readme-stats.vercel.app/api?username={{skwent77}}&show_icons=true)](https://github.com/{{skwent77}})
