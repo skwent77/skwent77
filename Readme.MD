@@ -3,8 +3,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning springboot, Gitlab, devops
 - 👯 I’m looking to collaborate on ... web project and python opensource
 - 📫 How to reach me: skwent77@gmail.com 
--  This is my profile: https://www.linkedin.com/in/jaehyunshin/
-
 
 
 
