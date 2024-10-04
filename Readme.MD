@@ -24,7 +24,7 @@
  ### Foriegn Activities 
  1) **Purdue ITTP Summer Program** ( *July 2021* ~ *August 2021*  ) junior일 때 참여. 코로나 19로 비대면 진행 
    program description: https://github.com/lhiday-purdue/IITP-Summer-Program-2021
-<br/>
+
  2) **EPITECH**( European Institute of Technology Summer School)  ( *July 2024*  ) sophomore 프랑스 파리에서 진행
    program description: https://international.epitech.eu/apply-summer-winter-school-program/ => EPITECH Summer School of BLOCKCHAIN & AI
 
