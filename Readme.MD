@@ -17,10 +17,13 @@
 
 ## 💻 Experience 💻   
 - **LG U+ Ureca, 1st** - Backend ( *Jun 2024* ~ )
-- **Fiserv Korea** - Software Enginner ( *March 2021* ~ *June 2021* )
+- **Fiserv Korea** - Software Enginner ( *March 2021* ~ *June 2021* )
 - **SKT AI Fellowship 3rd** - AI Research ( *June 2021* ~ *November 2021* )
-- **Purdue ITTP Summer Program (2021)**
+   Foriegn Activities 
+1) **Purdue ITTP Summer Program (2021)** junior
+2) **European Institute of Technology Summer School (2019)** sophomore
  cf. https://github.com/lhiday-purdue/IITP-Summer-Program-2021
+     https://international.epitech.eu/apply-summer-winter-school-program/
 <br/>
 
 ## 📌 Tech Stack 📌 
