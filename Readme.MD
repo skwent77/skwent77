@@ -11,6 +11,8 @@
 <br><br>
 
 ## 🎓 Education 🎓
+- **Whimoon High School(Seoul, Republic of Korea)**
+  (*Mar 2013* ~ *Feb 2016* )
 - **Chungang University(Seoul, Republic of Korea)**
    - Computer Science and Engineering , Barchelor of Science (*Mar 2017* ~ *Aug 2023* )
 
@@ -19,11 +21,11 @@
 ## 💻 Experience 💻   
 - **LG U+ Ureca, 1st** - Backend ( *Jun 2024* ~ )
 - **Fiserv Korea** - Software Enginner ( *March 2021* ~ *June 2021* )
-- **SKT AI Fellowship 3rd** - AI Research ( *June 2021* ~ *November 2021* )
-- **Prography** 6기,6.5기 - 연합 IT프로젝트 모임 ( *April 2020 ~ * January 2021 )
+- **SKT AI Fellowship 3rd** - AI Research ( *June 2021* ~ *Nov 2021* )
+- **Prography** 6기,6.5기 - 연합 IT프로젝트 모임 ( *April 2020 ~ * Jan 2021 )
 
  ### Foriegn Activities 
- 1) **Purdue ITTP Summer Program** ( *July 2021* ~ *August 2021*  ) junior일 때 참여. 코로나 19로 비대면 진행 
+ 1) **Purdue ITTP Summer Program** ( *July 2021* ~ *Aug 2021*  ) junior일 때 참여. 코로나 19로 비대면 진행 
    program description: https://github.com/lhiday-purdue/IITP-Summer-Program-2021
 
  2) **EPITECH**( European Institute of Technology Summer School)  ( *July 2024*  ) sophomore 프랑스 파리에서 진행
