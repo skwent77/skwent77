@@ -4,7 +4,7 @@
 
 <br>
 
- 백엔드 개발과 더불어 범용적인 응용 프로그래머 직무에 관심 있습니다. 
+ 백엔드 개발과 더불어 범용적인 응용 SW 직무에 관심 있습니다. 
 
 <br/>
 
@@ -14,7 +14,7 @@
 - **Whimoon High School(Seoul, Republic of Korea)**
   (*Mar 2013* ~ *Feb 2016* )
 - **Chungang University(Seoul, Republic of Korea)**
-   - Computer Science and Engineering , Barchelor of Science (*Mar 2017* ~ *Aug 2023* )
+   - Computer Science and Engineering , Barchelor of Science (*Mar 2017* ~ *Aug 2024* )
 
     👋 Early Graduation , Magna cum laude 3등 졸업
 
@@ -22,7 +22,7 @@
 - **LG U+ Ureca, 1st** - Backend ( *Jun 2024* ~ )
 - **Fiserv Korea** - Software Enginner ( *March 2021* ~ *June 2021* ) 
 - **SKT AI Fellowship 3rd** - AI Research ( *June 2021* ~ *Nov 2021* )
-- **Prography** 6기,6.5기 - 연합 IT프로젝트 모임 ( *April 2020 ~ * Jan 2021 )
+- **연합 IT프로젝트 모임 Prography** 6기,6.5기 - Android Mobile Application ( *April 2020 ~ * Jan 2021 )
 
  ### Foriegn Activities 
  1) **Purdue ITTP Summer Program** ( *July 2021* ~ *Aug 2021*  )   junior일 때 참여. 코로나 19로 비대면 진행   
@@ -38,7 +38,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+![AWS](https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
+- AmazonAWS
 )
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
