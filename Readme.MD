@@ -21,10 +21,10 @@
 - **SKT AI Fellowship 3rd** - AI Research ( *June 2021* ~ *November 2021* )
   
  ### Foriegn Activities 
- 1) **Purdue ITTP Summer Program (2021)** junior
- 2) **European Institute of Technology Summer School (2019)** sophomore
+ 1) **Purdue ITTP Summer Program ( *2021* )** junior일 때 참여. 코로나 19로 비대면 진행 
+ 2) **EPITECH( European Institute of Technology Summer School)  ( *July 2019* )** sophomore 프랑스 파리에서 진행
   cf. https://github.com/lhiday-purdue/IITP-Summer-Program-2021
-      https://international.epitech.eu/apply-summer-winter-school-program/
+      https://international.epitech.eu/apply-summer-winter-school-program/ => EPITECH Summer School of BLOCKCHAIN & AI
 <br/>
 
 ## 📌 Tech Stack 📌 
