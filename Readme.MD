@@ -1,4 +1,4 @@
-### 개발자로 취업을 준비 중인 신재현입니다.  👋
+### 개발자로 취업을 준비 중인 신재현입니다.  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%8A%B9%ED%9B%88-%EC%9D%B4-929a2a216/)](https://www.linkedin.com/in/jaehyunshin/)
 
@@ -13,17 +13,18 @@
 ## 🎓 Education 🎓
 - **Chungang University(Seoul, Republic of Korea)**
    - Computer Science and Engineering , Barchelor of Science (*Mar 2017* ~ *Aug 2023* )
-
+    👋 Early Graduation , Magmna cum laude 3등 졸업
 
 ## 💻 Experience 💻   
 - **LG U+ Ureca, 1st** - Backend ( *Jun 2024* ~ )
 - **Fiserv Korea** - Software Enginner ( *March 2021* ~ *June 2021* )
 - **SKT AI Fellowship 3rd** - AI Research ( *June 2021* ~ *November 2021* )
-   Foriegn Activities 
-1) **Purdue ITTP Summer Program (2021)** junior
-2) **European Institute of Technology Summer School (2019)** sophomore
- cf. https://github.com/lhiday-purdue/IITP-Summer-Program-2021
-     https://international.epitech.eu/apply-summer-winter-school-program/
+  
+ ### Foriegn Activities 
+ 1) **Purdue ITTP Summer Program (2021)** junior
+ 2) **European Institute of Technology Summer School (2019)** sophomore
+  cf. https://github.com/lhiday-purdue/IITP-Summer-Program-2021
+      https://international.epitech.eu/apply-summer-winter-school-program/
 <br/>
 
 ## 📌 Tech Stack 📌 
