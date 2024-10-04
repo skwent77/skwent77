@@ -25,10 +25,10 @@
 - **Prography** 6기,6.5기 - 연합 IT프로젝트 모임 ( *April 2020 ~ * Jan 2021 )
 
  ### Foriegn Activities 
- 1) **Purdue ITTP Summer Program** ( *July 2021* ~ *Aug 2021*  ) junior일 때 참여. 코로나 19로 비대면 진행 
+ 1) **Purdue ITTP Summer Program** ( *July 2021* ~ *Aug 2021*  )   junior일 때 참여. 코로나 19로 비대면 진행   
    program description: https://github.com/lhiday-purdue/IITP-Summer-Program-2021
 
- 2) **EPITECH**( European Institute of Technology Summer School)  ( *July 2024*  ) sophomore 프랑스 파리에서 진행
+ 2) **EPITECH**( European Institute of Technology Summer School)  ( *July 2024*  )   sophomore 프랑스 파리에서 진행  
    program description: https://international.epitech.eu/apply-summer-winter-school-program/ => EPITECH Summer School of BLOCKCHAIN & AI
 
 <br/>
@@ -88,12 +88,12 @@
 1. 로봇SC중앙대 공동 주관 파이썬을 활용한 AI 교육 - 자율주행 프로젝트
 2. Founders Samsung Blockchain 프로그램 - DAPP 개발
 3. CUAI 중앙대학교 인공지능 학회 
-  활동시기   
+  활동 타임라인   
    운영진(2019.08 ~ 2019.12)   
    학회장(2020.01 ~ 2020.08)   
    학회원(2020.09 ~ 2021.12)  
   성과: 지도교수님과 함께 계획서 작성하여 정보통신산업진흥원 주관 사업 선정, 비대면 시기 스터디 운영 및 관리  
-  활동 1) 서버 운영: V100 우분투 서버 2개 IP 접근 관리  
+  활동  1) 서버 운영: V100 우분투 서버 2개 IP 접근 관리  
       2) SKT AI fellowship 기업 과제에 V100 GPU 활용하여 로컬에서 모델 학습  
       3) 2021 겨울 컨퍼런스 참여: 영상과 음성 데이터 활용해 감성 분석의 다양한 모델들에 대한 실용성 평가
 
