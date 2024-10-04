@@ -4,8 +4,6 @@
 
 <br>
 
-<a href="https://solved.ac/lsh981127"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lsh981127&theme=dark"/></a>
-
  백엔드 개발과 더불어 범용적인 응용 프로그래머 직무에 관심 있습니다. 
 
 <br/>
