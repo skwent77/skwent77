@@ -80,9 +80,9 @@
 시간 순서가 아닌, 해당 프로젝트의 중요도 순서로 적었습니다. 
 1. 2021.11 SKT AI fellowship 3기 6번 기업 과제 
  Vehicle Type Classification 사내 CCTV Car image에 적용 -> 장려상 -> 상금:100만원  
- **최종 결과 보고 in DEVOCEAN**    
+ 최종 결과 보고 in DEVOCEAN    
 - [SKT 기술 블로그에 본인이 작성한 글(https://devocean.sk.com/blog/techBoardDetail.do?ID=163334)    
-- [SKT 기술 블로그에 팀원이 작성한 최종 결과 글](https://devocean.sk.com/search/techBoardDetail.do?ID=163494&query=%EB%96%A1%EC%9E%8E&searchData=AI+Fellowship&page=&subIndex=&idList=%5B163494%2C+163356%2C+163334%2C+163230%2C+163205%5D#none)
+- [SKT 기술 블로그에 팀원이 작성한 최종 결과 글]https://devocean.sk.com/search/techBoardDetail.do?ID=163494&query=%EB%96%A1%EC%9E%8E&searchData=AI+Fellowship&page=&subIndex=&idList=%5B163494%2C+163356%2C+163334%2C+163230%2C+163205%5D#none)
 
 2. 2020.12 인공지능문제 해결 경진대회 ( 수여기관	마인즈앤컴퍼니, 정보통신산업진흥원 ) 
 대회기간) 2020년 10월12일 ~ 23일 15시 (2주간 접수), 10월30일 ~ 11월13일 15시 (대회 개최)
