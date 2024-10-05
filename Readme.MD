@@ -30,6 +30,7 @@
    program description: https://github.com/lhiday-purdue/IITP-Summer-Program-2021
    - 美 현지학생, 美 ICT기업 엔지니어와 같이 캡스톤 디자인 프로젝트를 수행하면서 창의적인 문제해결능력 및 프로젝트 관리기법 등을 학습하는 글로벌 교육
    - 캡스톤 디자인 프로젝트 수행, 전공과목 청강, 기술 세미나 및 영어교육 등으로 구성
+   - Thesis : [*Enhancing The Physical Security System of The Company’s Access Control Using RFID*](https://drive.google.com/file/d/1rMDTJDwhcdRogS44NRvw5NK8U7U9Zd9v/view?usp=sharing)
  2) **EPITECH**( European Institute of Technology Summer School)  ( *July 2024*  )     sophomore일 때 참여. 프랑스 파리에서 진행  
    program description: https://international.epitech.eu/apply-summer-winter-school-program/ => EPITECH Summer School of BLOCKCHAIN & AI
 
