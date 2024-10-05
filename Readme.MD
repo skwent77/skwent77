@@ -31,8 +31,8 @@
    - 美 현지학생, 美 ICT기업 엔지니어와 같이 캡스톤 디자인 프로젝트를 수행하면서 창의적인 문제해결능력 및 프로젝트 관리기법 등을 학습하는 글로벌 교육
    - 캡스톤 디자인 프로젝트 수행, 전공과목 청강, 기술 세미나 및 영어교육 등으로 구성
    - Thesis : [*Enhancing The Physical Security System of The Company’s Access Control Using RFID*](https://drive.google.com/file/d/1rMDTJDwhcdRogS44NRvw5NK8U7U9Zd9v/view?usp=sharing)
- 2) **EPITECH**( European Institute of Technology Summer School)  ( *July 2024*  )     sophomore일 때 참여. 프랑스 파리에서 진행  
-   program description: https://international.epitech.eu/apply-summer-winter-school-program/ => EPITECH Summer School of BLOCKCHAIN & AI
+ 2) **EPITECH**( European Institute of Technology Summer School)  ( *July 2019*  )     sophomore일 때 참여. 프랑스 파리에서 진행  
+   program description: https://international.epitech.eu/apply-summer-winter-school-program/ =>   EPITECH Summer School of BLOCKCHAIN & AI
 
 <br/>
 
@@ -41,7 +41,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)  
-![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
