@@ -76,14 +76,19 @@
 
 ## 🏆 Prize 
 시간 순서가 아닌, 해당 프로젝트의 중요도 순서로 적었습니다. 
-1. 2021.11 SKT AI fellowship 3기 6번 기업 과제 장려상 -> 상금:100만원
+1. 2021.11 SKT AI fellowship 3기 6번 기업 과제 
+ Vehicle Type Classification 사내 CCTV Car image에 적용 -> 장려상 -> 상금:100만원
+[ 최종 결과 보고 ]  
+https://devocean.sk.com/search/techBoardDetail.do?ID=163494&query=%EB%96%A1%EC%9E%8E&searchData=AI+Fellowship&page=&subIndex=&idList=%5B163494%2C+163356%2C+163334%2C+163230%2C+163205%5D#none
+
 2. 2020.12 인공지능문제 해결 경진대회 ( 수여기관	마인즈앤컴퍼니, 정보통신산업진흥원 ) 
 기업 주관 컴퓨터 비전 미세균열 검출 과제 F1 해커톤 3위 -> 상금:50만원
 3. 2021.02 SW중심대학 공동 해커톤 우수상(SW중심대학협의회장상) 39팀 중 rank 4등
 4. 2021 CUAI 겨울 컨퍼런스 9팀 중 3등 우수상
-5. [2020 다빈치 SW AI TECH FAIR] 전공생 대상 교내 대회: 오픈소스 SW AI 딥러닝 해커톤 18팀 중 3위 우수상 
+5. 2020 다빈치 SW AI TECH FAIR' 전공생 대상 교내 대회: 오픈소스 SW AI 딥러닝 해커톤 18팀 중 3위 우수상 
 
  2인 1팀으로 참여하여, 해커톤 당일 주어진 데이터에 대해 높은 정확도의 분류 딥러닝 모델 설계하는 팀이 수상
+
 
 ### 기타 활동
 1. 로봇SC중앙대 공동 주관 파이썬을 활용한 AI 교육 - 자율주행 프로젝트
