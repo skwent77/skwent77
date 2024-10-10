@@ -84,7 +84,7 @@
  최종 결과 보고 in DEVOCEAN    
 - [SKT 기술 블로그에 본인이 작성한 글](https://devocean.sk.com/blog/techBoardDetail.do?ID=163334)    
 - [SKT 기술 블로그에 팀원이 작성한 최종 결과 글](https://devocean.sk.com/search/techBoardDetail.do?ID=163494&query=%EB%96%A1%EC%9E%8E&searchData=AI+Fellowship&page=&subIndex=&idList=%5B163494%2C+163356%2C+163334%2C+163230%2C+163205%5D#none)
-
+[깃허브 레포지토리](https://github.com/CUAI-CAU/Self-supervised-Learning-Research)  
 2. 2020.12 인공지능문제 해결 경진대회 ( 수여기관	마인즈앤컴퍼니, 정보통신산업진흥원 ) 
 대회기간) 2020년 10월12일 ~ 23일 15시 (2주간 접수), 10월30일 ~ 11월13일 15시 (대회 개최)  
 기업 주관 컴퓨터 비전 미세균열 검출 과제 F1 해커톤 3위 -> 상금:50만원
@@ -109,6 +109,7 @@
    학회장(2020.01 ~ 2020.08)   
    학회원(2020.09 ~ 2021.12)  
   성과: 지도교수님과 함께 계획서 작성하여 정보통신산업진흥원 주관 사업 선정, 비대면 시기 스터디 운영 및 관리  
+  
   활동  1) 서버 운영: V100 우분투 서버 2개 IP 접근 관리  
       2) SKT AI fellowship 기업 과제에 V100 GPU 활용하여 로컬에서 모델 학습  
       3) 2021 겨울 컨퍼런스 참여: 영상과 음성 데이터 활용해 감성 분석의 다양한 모델들에 대한 실용성 평가
