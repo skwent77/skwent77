@@ -26,13 +26,13 @@
 
 
  ### Foriegn Activities 
- 1) **Purdue IITP Summer Program K-SW 스퀘어 여름 프로그램** ( *July 2021* ~ *Aug 2021*  )   junior일 때 참여. 코로나 19로 비대면 진행     
+ 1) **Purdue IITP Summer Program K-SW 스퀘어 여름 프로그램** ( *July 2021* ~ *Aug 2021*  )     junior일 때 참여. 코로나 19로 비대면 진행     
    program description: https://github.com/lhiday-purdue/IITP-Summer-Program-2021
    - 美 현지학생, 美 ICT기업 엔지니어와 같이 캡스톤 디자인 프로젝트를 수행하면서 창의적인 문제해결능력 및 프로젝트 관리기법 등을 학습하는 글로벌 교육
    - 캡스톤 디자인 프로젝트 수행, 전공과목 청강, 기술 세미나 및 영어교육 등으로 구성
    - Thesis : [*Enhancing The Physical Security System of The Company’s Access Control Using RFID*](https://drive.google.com/file/d/1rMDTJDwhcdRogS44NRvw5NK8U7U9Zd9v/view?usp=sharing)
- 2) **EPITECH**( European Institute of Technology Summer School)  ( *July 2019*  )     sophomore일 때 참여. 프랑스 파리에서 진행  
-   program description: https://international.epitech.eu/apply-summer-winter-school-program/ =>   EPITECH Summer School of BLOCKCHAIN & AI
+ 2) **EPITECH**( European Institute of Technology Summer School)  ( *July 2019*  )       sophomore일 때 참여. 프랑스 파리에서 진행  
+   program description: https://international.epitech.eu/apply-summer-winter-school-program/   =>   EPITECH Summer School of BLOCKCHAIN & AI
 
 <br/>
 
@@ -94,7 +94,7 @@
 3. 2021.02 SW중심대학 공동 해커톤 우수상(SW중심대학협의회장상) 39팀 중 rank 4등 
  대회 후원 기업인 Common Computer Inc.에서 개발한 오픈 API를 잘 활용하여 <커먼컴퓨터 특별상> 또한 수상
 4. 2021 CUAI 겨울 컨퍼런스 9팀 중 3등 우수상
-5. 2020 다빈치 SW AI TECH FAIR' 전공생 대상 교내 대회: 오픈소스 SW AI 딥러닝 해커톤 18팀 중 3위 우수상 
+5. 2020 다빈치 SW AI TECH FAIR' 전공생 대상 교내 대회   오픈소스 SW AI 딥러닝 해커톤 18팀 중 3위 우수상 
 
  2인 1팀으로 참여하여, 해커톤 당일 주어진 데이터에 대해 높은 정확도의 분류 딥러닝 모델 설계하는 팀이 수상
 
@@ -102,8 +102,8 @@
 ### 기타 활동
 1. 로봇SC 중앙대 공동 주관 파이썬을 활용한 AI 교육 - 자율주행 프로젝트
 2. Founders Samsung Blockchain 프로그램 - DAPP 개발
-3. CUAI 중앙대학교 인공지능 학회 
-[CUAI블로그](https://blog.naver.com/cuaibigdata/221699262450) 동아리 블로그 운영진끼리 운영한 경험이 있습니다.
+3. CUAI 중앙대학교 인공지능 학회   
+[CUAI블로그](https://blog.naver.com/cuaibigdata/221699262450) 동아리 블로그 운영진끼리 운영한 경험이 있습니다.  
   활동 타임라인   
    운영진(2019.08 ~ 2019.12)   
    학회장(2020.01 ~ 2020.08)   
