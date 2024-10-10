@@ -86,7 +86,7 @@
 - [SKT 기술 블로그에 팀원이 작성한 최종 결과 글](https://devocean.sk.com/search/techBoardDetail.do?ID=163494&query=%EB%96%A1%EC%9E%8E&searchData=AI+Fellowship&page=&subIndex=&idList=%5B163494%2C+163356%2C+163334%2C+163230%2C+163205%5D#none)
 [깃허브 레포지토리](https://github.com/CUAI-CAU/Self-supervised-Learning-Research)  
 2. 2020.12 인공지능문제 해결 경진대회 3위 ( 수여기관	마인즈앤컴퍼니, 정보통신산업진흥원 )   
-AI Rush와 비슷한 느낌의 해커톤
+NAVER AI RUSH와 비슷한 느낌의 해커톤
 대회기간) 2020년 10월12일 ~ 23일 15시 (2주간 접수), 10월30일 ~ 11월13일 15시 (대회 개최)  
 기업 주관 컴퓨터 비전 미세균열 검출 과제 F1 score 총 3위 -> 상금:50만원
 [깃허브 레포지토리](https://github.com/skwent77/2020aikorea-round2)
@@ -106,8 +106,8 @@ AI Rush와 비슷한 느낌의 해커톤
 2. Founders Samsung Blockchain 프로그램 - DAPP 개발
 3. CUAI 중앙대학교 인공지능 학회   
 [CUAI블로그](https://blog.naver.com/cuaibigdata/221699262450) 동아리 블로그 운영진끼리 운영한 경험이 있습니다.  
-  활동 타임라인   
-   운영진(2019.08 ~ 2019.12)   
+ <U> 활동 타임라인 </U>
+   운영진(2019.08 ~ 2019.12)    
    학회장(2020.01 ~ 2020.08)   
    학회원(2020.09 ~ 2021.12)  
   성과: 지도교수님과 함께 계획서 작성하여 정보통신산업진흥원 주관 사업 선정, 비대면 시기 스터디 운영 및 관리  
