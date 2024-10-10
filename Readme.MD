@@ -85,9 +85,10 @@
 - [SKT 기술 블로그에 본인이 작성한 글](https://devocean.sk.com/blog/techBoardDetail.do?ID=163334)    
 - [SKT 기술 블로그에 팀원이 작성한 최종 결과 글](https://devocean.sk.com/search/techBoardDetail.do?ID=163494&query=%EB%96%A1%EC%9E%8E&searchData=AI+Fellowship&page=&subIndex=&idList=%5B163494%2C+163356%2C+163334%2C+163230%2C+163205%5D#none)
 [깃허브 레포지토리](https://github.com/CUAI-CAU/Self-supervised-Learning-Research)  
-2. 2020.12 인공지능문제 해결 경진대회 ( 수여기관	마인즈앤컴퍼니, 정보통신산업진흥원 ) 
+2. 2020.12 인공지능문제 해결 경진대회 3위 ( 수여기관	마인즈앤컴퍼니, 정보통신산업진흥원 )   
+AI Rush와 비슷한 느낌의 해커톤
 대회기간) 2020년 10월12일 ~ 23일 15시 (2주간 접수), 10월30일 ~ 11월13일 15시 (대회 개최)  
-기업 주관 컴퓨터 비전 미세균열 검출 과제 F1 해커톤 3위 -> 상금:50만원
+기업 주관 컴퓨터 비전 미세균열 검출 과제 F1 score 총 3위 -> 상금:50만원
 [깃허브 레포지토리](https://github.com/skwent77/2020aikorea-round2)
 
 
@@ -100,7 +101,8 @@
 
 
 ### 기타 활동
-1. 로봇SC 중앙대 공동 주관 파이썬을 활용한 AI 교육 - 자율주행 프로젝트
+1. 로봇SC 중앙대 공동 주관 파이썬을 활용한 AI 교육 - 자율주행 프로젝트  
+ Arduino & Raspberrypi AI Education
 2. Founders Samsung Blockchain 프로그램 - DAPP 개발
 3. CUAI 중앙대학교 인공지능 학회   
 [CUAI블로그](https://blog.naver.com/cuaibigdata/221699262450) 동아리 블로그 운영진끼리 운영한 경험이 있습니다.  
