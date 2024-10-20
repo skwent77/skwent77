@@ -84,7 +84,9 @@
  최종 결과 보고 in DEVOCEAN    
 - [SKT 기술 블로그에 본인이 작성한 글](https://devocean.sk.com/blog/techBoardDetail.do?ID=163334)    
 - [SKT 기술 블로그에 팀원이 작성한 최종 결과 글](https://devocean.sk.com/search/techBoardDetail.do?ID=163494&query=%EB%96%A1%EC%9E%8E&searchData=AI+Fellowship&page=&subIndex=&idList=%5B163494%2C+163356%2C+163334%2C+163230%2C+163205%5D#none)
+
 [깃허브 레포지토리](https://github.com/CUAI-CAU/Self-supervised-Learning-Research)  
+
 2. 2020.12 인공지능문제 해결 경진대회 3위 ( 수여기관	마인즈앤컴퍼니, 정보통신산업진흥원 )   
 NAVER AI RUSH와 비슷한 느낌의 해커톤
 대회기간) 2020년 10월12일 ~ 23일 15시 (2주간 접수), 10월30일 ~ 11월13일 15시 (대회 개최)  
