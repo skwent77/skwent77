@@ -19,7 +19,7 @@
     👋 Early Graduation , Magna cum laude 3등 졸업
 
 ## 💻 Experience 💻   
-- **LG U+ Ureca, 1st** - Backend ( *Jun 2024* ~ )
+- **LG U+ Ureca, 1st** - Backend ( *Jun 2024* ~ Decemeber 2024 )
 - **Fiserv Korea** - Software Enginner ( *March 2021* ~ *June 2021* ) 
 - **SKT AI Fellowship 3rd** - AI Research ( *June 2021* ~ *Nov 2021* )
 - **연합 IT프로젝트 모임 Prography** 6기,6.5기 - Android Mobile Application ( *April 2020* ~ *Jan 2021* )
