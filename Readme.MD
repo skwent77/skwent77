@@ -1,10 +1,11 @@
-### 개발자로 취업을 준비 중인 신재현입니다.  
+### 꾸준히 공부하는 소프트웨어 엔지니어 신재현입니다.  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%8A%B9%ED%9B%88-%EC%9D%B4-929a2a216/)](https://www.linkedin.com/in/jaehyunshin/)
 
 <br>
 
 임베디드와 제어 SW 직무에 관심 있습니다. 
+제어공학 쪽 역량을 채우기 위해 꾸준히 공부하고 있습니다.
 
 <br/>
 
