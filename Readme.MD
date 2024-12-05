@@ -107,7 +107,7 @@ NAVER AI RUSH와 비슷한 느낌의 해커톤
 ### 기타 활동
 1. 로봇SC 중앙대 공동 주관 파이썬을 활용한 AI 교육 - 자율주행 프로젝트  
  Arduino & Raspberrypi AI Education
-2. Founders Samsung Blockchain 프로그램 - DAPP 개발
+2. Samsung Electronics & Founders 대학생 Blockchain 교육 프로그램 - DAPP(탈중앙앱) 개발
 3. CUAI 중앙대학교 인공지능 학회   
 [CUAI블로그](https://blog.naver.com/cuaibigdata/221699262450) 동아리 블로그 운영진끼리 운영한 경험이 있습니다.  
  <U> 활동 타임라인 </U>
@@ -126,3 +126,4 @@ NAVER AI RUSH와 비슷한 느낌의 해커톤
 
 1. SAP 빅데이터 모델링 교육
 2. 소프트웨어역량검정(TOPCIT) 수준3 취득일자 2024.05.18 발행기관	정보통신기획평가원
+3. 정보처리기사
