@@ -17,7 +17,7 @@
 - **Chungang University(Seoul, Republic of Korea)**
    - Computer Science and Engineering , Barchelor of Science (*Mar 2017* ~ *Aug 2024* )
 
-    👋 7 Early Graduation , Magna cum laude 3등 졸업
+    👋 Early Graduation , Magna cum laude 3등 졸업
 
 ## 💻 Experience 💻   
 - **LG U+ Ureca, 1st** - Backend ( *Jun 2024* ~ Decemeber 2024 )
