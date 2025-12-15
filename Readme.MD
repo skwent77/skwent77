@@ -1,11 +1,21 @@
 ### 꾸준히 공부하는 소프트웨어 엔지니어 신재현입니다.  
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%8A%B9%ED%9B%88-%EC%9D%B4-929a2a216/)](https://www.linkedin.com/in/jaehyunshin/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=skwent77gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaehyunshin)
 
-<br>
+🌱  성장하는 소프트웨어 엔지니어
+저는 매일 배우고 성장하는 것을 즐기는 소프트웨어 엔지니어입니다.
 
-<br/>
+🚀 신속한 학습과 문제 해결 능력
+새로운 기술을 빠르게 배우고, 적용합니다.
 
+  파이서브코리아 인턴 근무 당시, Amazon Web Services (AWS) 클라우드 도입을 위해 인프라 담당자와 적극적으로 소통하며 클라우드 기반 지식을 쌓았습니다. AWS Route 53, 로드밸런서(Load Balancer)의 원리를 학습하고, Amazon RDS (Relational Database Service) 세팅에 대한 심도 있는 자료 조사를 수행하며 인프라 역량을 키웠습니다.
+
+✨ 궁극적인 목표
+저의 목표는 사람들에게 진정으로 도움이 되는 기술을 만드는 것입니다. 누군가의 하루를 조금 더 쉽고, 더 좋게, 그리고 의미 있게 만드는 제품을 만드는 데 기여하고 싶습니다.
+### 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,nginx,ubuntu,githubactions,aws,prometheus,grafana)](https://skillicons.dev)
 <br><br>
 
 ## 🎓 Education 🎓
@@ -31,19 +41,6 @@
    - Thesis : [*Enhancing The Physical Security System of The Company’s Access Control Using RFID*](https://drive.google.com/file/d/1rMDTJDwhcdRogS44NRvw5NK8U7U9Zd9v/view?usp=sharing)
  2) **EPITECH**( European Institute of Technology Summer School)  ( *July 2019*  )       sophomore일 때 참여. 프랑스 파리에서 진행  
    program description: https://international.epitech.eu/apply-summer-winter-school-program/   =>   EPITECH Summer School of BLOCKCHAIN & AI
-
-<div align="center">
-  
-## 📌 Tech Stack 📌
-
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white) <br> ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
-</div>
 
 <!--
 <dic style="display: flex; justify-content: center;">
