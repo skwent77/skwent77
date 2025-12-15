@@ -9,13 +9,13 @@
 🚀 신속한 학습과 문제 해결 능력
 새로운 기술을 빠르게 배우고, 적용합니다.
 
-  파이서브코리아 인턴 근무 당시, Amazon Web Services (AWS) 클라우드 도입을 위해 인프라 담당자와 적극적으로 소통하며 클라우드 기반 지식을 쌓았습니다. AWS Route 53, 로드밸런서(Load Balancer)의 원리를 학습하고, Amazon RDS (Relational Database Service) 세팅에 대한 심도 있는 자료 조사를 수행하며 인프라 역량을 키웠습니다.
+  > 글로벌 핀테크 기업 파이서브코리아의 인턴 근무 당시, Amazon Web Services (AWS) 클라우드 도입을 위해 인프라 담당자와 적극적으로 소통하며 클라우드 기반 지식을 쌓았습니다. AWS Route 53, 로드밸런서(Load Balancer)의 원리를 학습하고, Amazon RDS (Relational Database Service) 세팅에 대한 심도 있는 자료 조사를 수행하며 인프라 역량을 키웠습니다.
 
 ✨ 궁극적인 목표
 저의 목표는 사람들에게 진정으로 도움이 되는 기술을 만드는 것입니다. 누군가의 하루를 조금 더 쉽고, 더 좋게, 그리고 의미 있게 만드는 제품을 만드는 데 기여하고 싶습니다.
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,nginx,ubuntu,githubactions,aws,prometheus,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,fastapi,docker,nginx,ubuntu,githubactions,aws,prometheus,gcp)](https://skillicons.dev)
 <br><br>
 
 ## 🎓 Education 🎓
