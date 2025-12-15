@@ -13,7 +13,7 @@
   > 글로벌 핀테크 기업 파이서브코리아의 인턴 근무 당시, Amazon Web Services (AWS) 클라우드 도입을 위해 인프라 담당자와 적극적으로 소통하며 클라우드 기반 지식을 쌓았습니다. AWS Route 53, 로드밸런서(Load Balancer)의 원리를 학습하고, Amazon RDS (Relational Database Service) 세팅에 대한 심도 있는 자료 조사를 수행하며 인프라 역량을 키웠습니다.
 
 ✨ 궁극적인 목표
-저의 목표는 사람들에게 진정으로 도움이 되는 기술을 만드는 것입니다. 누군가의 하루를 조금 더 쉽고, 더 좋게, 그리고 의미 있게 만드는 제품을 만드는 데 기여하고 싶습니다.
+저의 목표는 사람들에게 진정으로 도움이 되는 기술을 만드는 것입니다. 기술을 이용해 의미 있는 제품을 만드는 데 기여하고 싶습니다.
 ### 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,fastapi,docker,nginx,ubuntu,githubactions,aws,gcp)](https://skillicons.dev)
@@ -51,12 +51,12 @@
 
 
  ### Foriegn Activities 
- 1) **Purdue IITP Summer Program K-SW 스퀘어 여름 프로그램** ( *July 2021* ~ *Aug 2021*  )     junior일 때 참여. 코로나 19로 비대면 진행     
+ 1) **Purdue IITP Summer Program K-SW 스퀘어 여름 프로그램** ( *July 2021* ~ *Aug 2021*  )      코로나 19로 비대면 진행     
    program description: https://github.com/lhiday-purdue/IITP-Summer-Program-2021
    - 美 현지학생, 美 ICT기업 엔지니어와 같이 캡스톤 디자인 프로젝트를 수행하면서 창의적인 문제해결능력 및 프로젝트 관리기법 등을 학습하는 글로벌 교육
    - 캡스톤 디자인 프로젝트 수행, 전공과목 청강, 기술 세미나 및 영어교육 등으로 구성
    - Thesis : [*Enhancing The Physical Security System of The Company’s Access Control Using RFID*](https://drive.google.com/file/d/1rMDTJDwhcdRogS44NRvw5NK8U7U9Zd9v/view?usp=sharing)
- 2) **EPITECH**( European Institute of Technology Summer School)  ( *July 2019*  )       sophomore일 때 참여. 프랑스 파리에서 진행  
+ 2) **EPITECH**( European Institute of Technology Summer School)  ( *July 2019*  )        프랑스 파리에서 진행  
    program description: https://international.epitech.eu/apply-summer-winter-school-program/   =>   EPITECH Summer School of BLOCKCHAIN & AI
 
 <!--
