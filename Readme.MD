@@ -15,8 +15,20 @@
 저의 목표는 사람들에게 진정으로 도움이 되는 기술을 만드는 것입니다. 누군가의 하루를 조금 더 쉽고, 더 좋게, 그리고 의미 있게 만드는 제품을 만드는 데 기여하고 싶습니다.
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,fastapi,docker,nginx,ubuntu,githubactions,aws,prometheus,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,fastapi,docker,nginx,ubuntu,githubactions,aws,gcp)](https://skillicons.dev)
+<details>
+<summary>💻 기술 스택 자세히 보기 (클릭)</summary>
+
+### Backend
+* **Java & Spring Boot:** 엔터프라이즈 환경에서 안정적인 백엔드 구축
+* **FastAPI:** 경량 API 개발 및 AI 연동 환경 구축에 활용
+### Infra & DevOps
+* **AWS & GCP:** 멀티 클라우드 환경 구축 및 운영 경험 (Route 53, Load Balancer, RDS 등)
+* **Docker:** 컨테이너 기반 환경 구성 및 CI/CD 파이프라인 연동
+</details>
+
 <br><br>
+
 
 ## 🎓 Education 🎓
 - **Whimoon High School(Seoul, Republic of Korea)**
