@@ -1,4 +1,4 @@
-### 꾸준히 공부하는 소프트웨어 엔지니어 신재현입니다.  
+### 꾸준히 공부하는 소프트웨어 개발자 신재현입니다.  
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=skwent77gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaehyunshin)
