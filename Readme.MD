@@ -33,8 +33,6 @@
 ### 💡 AI 학습 진행 중 (별도 프로필)
 인공지능(AI) 분야를 공부한 내용을 정리한 별도의 GitHub 프로필이 있습니다. 
 
-* **AI Study GitHub Profile:** https://github.com/jaehyunshinn
-
 ## 🎓 Education 🎓
 - **Whimoon High School(Seoul, Republic of Korea)**
   (*Mar 2013* ~ *Feb 2016* )
