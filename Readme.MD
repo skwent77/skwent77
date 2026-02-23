@@ -30,13 +30,6 @@
 
 <br><br>
 
-## 🎓 Education 🎓
-- **Whimoon High School(Seoul, Republic of Korea)**
-  (*Mar 2013* ~ *Feb 2016* )
-- **Chungang University(Seoul, Republic of Korea)**
-   - Computer Science and Engineering , Barchelor of Science (*Mar 2017* ~ *Aug 2024* )
-
-
 
 ## 💻 Experience 💻   
 - **LG U+ Ureca, 1st** - Backend ( *Jun 2024* ~ Decemeber 2024 )
