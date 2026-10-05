@@ -21,7 +21,7 @@
 * **Java & Spring Boot:** 엔터프라이즈 환경에서 안정적인 백엔드 구축
 * **FastAPI:** 경량 API 개발 및 AI 연동 환경 구축에 활용
 ### Infra & DevOps
-* **AWS & GCP:** 멀티 클라우드 환경 구축 및 운영 경험 (Route 53, Load Balancer, RDS 등)
+* **AWS & GCP:** 클라우드 환경 구축 및 운영 경험 (Route 53, Load Balancer, RDS 등)
 * **Docker:** 컨테이너 기반 환경 구성 및 CI/CD 파이프라인 연동
 </details>
 
